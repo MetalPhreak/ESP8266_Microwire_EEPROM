@@ -17,4 +17,3 @@ Microchip 93LC46/56/66
 
 Atmel AT93C46/56/66
 
-Requires my SPI driver: https://github.com/MetalPhreak/ESP8266_SPI_Driver
