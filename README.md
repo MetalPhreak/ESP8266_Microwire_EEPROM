@@ -7,6 +7,8 @@ Works with x8/x16 memory array configurations.
 
 Note: The ESP8266 SPI hardware doesn't support 3-wire mode. You must use 4-wire SPI.
 
+Requires: https://github.com/MetalPhreak/ESP8266_SPI_Driver
+
 List of possible devices:
 
 ST M93C46/56/66/76/86 (Driver is based on datasheet for this)
